@@ -1,0 +1,30 @@
+[
+    {
+        "qualification": "L920",
+        "name": "Comirnaty (BioNTech)",
+        "tssname": "BioNTech",
+	    "interval": 40,
+        "age": "16-17"
+     
+    },
+	  {
+        "qualification": "L921",
+        "name": "mRNA-1273 (Moderna)",
+        "tssname": "Moderna, BioNTech",
+	    "interval": 40,
+        "age": "18-59"
+    },
+	{
+        "qualification": "L922",
+        "name": "COVID-1912 (AstraZeneca)",
+        "tssname": "Moderna, BioNTech, AstraZeneca",
+        "interval": 40,
+        "age": "60+"
+    },
+    {
+        "qualification": "L923",
+        "name": "COVID-19 Vaccine Janssen (Johnson & Johnson)",
+        "tssname": "Johnson&Johnson",
+        "age": "18+"
+    }
+]

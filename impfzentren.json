@@ -1,0 +1,1022 @@
+{
+    "Baden-Württemberg": [
+       {
+          "Zentrumsname": "Maimarkthalle",
+          "PLZ": "68163",
+          "Ort": "Mannheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Xaver-Fuhr-Straße 113"
+       },
+       {
+          "Zentrumsname": "Gesellschaftshaus Pfaffengrund",
+          "PLZ": "69123",
+          "Ort": "Heidelberg",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Schwalbenweg 1/2"
+       },
+       {
+          "Zentrumsname": "Zentrales Impfzentrum Heidelberg - Commissary Patrick-Henry-Village",
+          "PLZ": "69124",
+          "Ort": "Heidelberg",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "South Gettysburg Avenue 45"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Weinheim - 3-Glocken-Center",
+          "PLZ": "69469",
+          "Ort": "Weinheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Bergstraße 49-57"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Klinikum Stuttgart in der Liederhalle (Hegel-Saal)",
+          "PLZ": "70174",
+          "Ort": "Stuttgart",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Berliner Platz 1"
+       },
+       {
+          "Zentrumsname": "Impfzentrum am Robert-Bosch-Krankenhaus ",
+          "PLZ": "70376",
+          "Ort": "Stuttgart",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Auerbachstr. 110"
+       },
+       {
+          "Zentrumsname": "KIZ Messe Stuttgart (Landkreis Esslingen)",
+          "PLZ": "70629",
+          "Ort": "Leinfelden-Echterdingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Messepiazza 1, Halle 9 "
+       },
+       {
+          "Zentrumsname": "KIZ Böblingen",
+          "PLZ": "71065",
+          "Ort": "Sindelfingen ",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Mahdentalstraße 116"
+       },
+       {
+          "Zentrumsname": "KIZ Enzkreis - Appenbergsporthalle",
+          "PLZ": "71297",
+          "Ort": "Mönsheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Pforzheimer Str. 85"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Waiblingen",
+          "PLZ": "71334",
+          "Ort": "Waiblingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Beinsteiner Straße  160"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Ludwigsburg",
+          "PLZ": "71636",
+          "Ort": "Ludwigsburg",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Grönerstraße  33"
+       },
+       {
+          "Zentrumsname": "Paul Horn Arena",
+          "PLZ": "72072",
+          "Ort": "Tübingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Europastraße  50"
+       },
+       {
+          "Zentrumsname": "KiZ Kreis Calw",
+          "PLZ": "72213",
+          "Ort": "Altensteig-Wart",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Wildbader Str.  44"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Freudenstadt",
+          "PLZ": "72280",
+          "Ort": "Dornstetten",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Riedsteige  80"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Zollernalbkreis",
+          "PLZ": "72469",
+          "Ort": "Meßstetten",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Geißbühlstraße  51"
+       },
+       {
+          "Zentrumsname": "Stadion an der Kreuzeiche",
+          "PLZ": "72762",
+          "Ort": "Reutlingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "An der Kreuzeiche 4"
+       },
+       {
+          "Zentrumsname": "Werfthalle im Stauferpark",
+          "PLZ": "73037",
+          "Ort": "Göppingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Manfred-Wörner-Straße 104"
+       },
+       {
+          "Zentrumsname": "KIZ Ostalbkreis",
+          "PLZ": "73430",
+          "Ort": "Aalen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Parkstraße 15"
+       },
+       {
+          "Zentrumsname": "KIZ Esslingen",
+          "PLZ": "73730",
+          "Ort": "Stadt Esslingen am Neckar",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Zeppelinstraße  112"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Heilbronn",
+          "PLZ": "74081",
+          "Ort": "Heilbronn",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Nussäckerstraße 3"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Heilbronn",
+          "PLZ": "74360",
+          "Ort": "Ilsfeld-Auenstein",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Ochsenweg 2"
+       },
+       {
+          "Zentrumsname": "KIZ Wolpertshausen",
+          "PLZ": "74549",
+          "Ort": "Wolpertshausen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Bildäckerstraße 2"
+       },
+       {
+          "Zentrumsname": "ZIZ Rot am See",
+          "PLZ": "74585",
+          "Ort": "Rot am See",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Steinäckerstrasse 16"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Hohenlohekreis",
+          "PLZ": "74613",
+          "Ort": "Öhringen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Pfaffenmühlweg 30"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Mosbach",
+          "PLZ": "74821",
+          "Ort": "Mosbach",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Hauptstr. 96"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Sinsheim - Parsa-Halle",
+          "PLZ": "74889",
+          "Ort": "Sinsheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Breite Seite 3"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Sulzfeld",
+          "PLZ": "75056",
+          "Ort": "Sulzfeld",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Ochsenburger Straße 19"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Pforzheim",
+          "PLZ": "75175",
+          "Ort": "Pforzheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Hohwiesenweg 4"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Schwarzwaldhalle Karlsruhe",
+          "PLZ": "76137",
+          "Ort": "Karlsruhe",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Festplatz 5"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Messe Karlsruhe",
+          "PLZ": "76287",
+          "Ort": "Rheinstetten",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Messeallee 1"
+       },
+       {
+          "Zentrumsname": "KIZ Kurhaus Baden-Baden",
+          "PLZ": "76530",
+          "Ort": "Baden-Baden",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Kaiserallee 1"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Bruchsal",
+          "PLZ": "76646",
+          "Ort": "Bruchsal-Heidelsheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Stuttgarter Straße 10"
+       },
+       {
+          "Zentrumsname": "Messe Offenburg-Ortenau, Halle 1",
+          "PLZ": "77656",
+          "Ort": "Offenburg",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Schutterwälder Str.  3"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Rastatt in Bühl",
+          "PLZ": "77815",
+          "Ort": "Bühl",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Ludwig-Jahn-Straße 6a"
+       },
+       {
+          "Zentrumsname": "KIZ Lahr - Rheintalhalle Lahr",
+          "PLZ": "77933",
+          "Ort": "Lahr / Schwarzwald",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Rheinstrße  15"
+       },
+       {
+          "Zentrumsname": "Landratsamt Schwarzwald-Baar-Kreis",
+          "PLZ": "78056",
+          "Ort": "Villingen-Schwenningen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Waldeckweg 25"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Singen (Kreis Konstanz)",
+          "PLZ": "78224",
+          "Ort": "Singen (Hohentwiel)",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Hohgarten 4"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Tuttlingen",
+          "PLZ": "78532",
+          "Ort": "Tuttlingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Theodor-Heuss-Allee 1"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Rottweil, Stadthalle",
+          "PLZ": "78628",
+          "Ort": "Rottweil",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Stadionstraße  "
+       },
+       {
+          "Zentrumsname": "Zentrales Impfzentrum (ZIZ) Freiburg, Messe Freiburg, Messehalle 2",
+          "PLZ": "79108",
+          "Ort": "Freiburg im Breisgau",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://002-iz.impfterminservice.de/",
+          "Adresse": "Neuer Messplatz 1"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Emmendingen",
+          "PLZ": "79341",
+          "Ort": "Kenzingen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Industriestraße 26"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Müllheim",
+          "PLZ": "79379",
+          "Ort": "Müllheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Eisenbahnstr.  14"
+       },
+       {
+          "Zentrumsname": "KIZ Lörrach - Impulsivcenter Lörrach",
+          "PLZ": "79541",
+          "Ort": "Lörrach",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Beim Haagensteg 5"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Waldshut",
+          "PLZ": "79761",
+          "Ort": "Waldshut-Tiengen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Berliner Straße 2"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Bodenseekreis",
+          "PLZ": "88045",
+          "Ort": "Friedrichshafen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Neue Messe  4"
+       },
+       {
+          "Zentrumsname": "Oberschwabenhalle Kreisimpfzentrum Ravensburg",
+          "PLZ": "88212",
+          "Ort": "Ravensburg",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Bleicherstraße 20"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Landkreis Sigmaringen",
+          "PLZ": "88367",
+          "Ort": "Hohentengen",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Österfeldstr.  100"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Ummendorf (Landkreis Biberach)",
+          "PLZ": "88444",
+          "Ort": "Ummendorf",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Schulstraße 31"
+       },
+       {
+          "Zentrumsname": "Zentrales Impfzentrum Ulm",
+          "PLZ": "89073",
+          "Ort": "Ulm",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://001-iz.impfterminservice.de/",
+          "Adresse": "Böfinger Str. 50"
+       },
+       {
+          "Zentrumsname": "Congress Centrum Heidenheim",
+          "PLZ": "89522",
+          "Ort": "Heidenheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://003-iz.impfterminservice.de/",
+          "Adresse": "Hugo-Rupf-Platz  1"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Ehingen (Donau)",
+          "PLZ": "89584",
+          "Ort": "Ehingen (Donau)",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://229-iz.impfterminservice.de/",
+          "Adresse": "Biberacher Straße 67"
+       },
+       {
+          "Zentrumsname": "Kreisimpfzentrum Main-Tauber-Kreis",
+          "PLZ": "97980",
+          "Ort": "Bad Mergentheim",
+          "Bundesland": "Baden-Württemberg",
+          "URL": "https://005-iz.impfterminservice.de/",
+          "Adresse": "Seegartenstraße 16"
+       }
+    ],
+    "Brandenburg": [
+       {
+          "Zentrumsname": "Impfzentrum Cottbus",
+          "PLZ": "03042",
+          "Ort": "Cottbus",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Vorparkstraße 3"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Elsterwerda",
+          "PLZ": "04910",
+          "Ort": "Elsterwerda",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Am Elsterschloß 4"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Schönefeld",
+          "PLZ": "12529",
+          "Ort": "Schönefeld",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Flughafen Schönefeld, Terminal 5 "
+       },
+       {
+          "Zentrumsname": "Impfzentrum Potsdam",
+          "PLZ": "14482",
+          "Ort": "Potsdam",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Großbeerenstraße 200"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Falkensee",
+          "PLZ": "14612",
+          "Ort": "Falkensee",
+          "Bundesland": "Brandenburg",
+          "URL": "https://357-iz.impfterminservice.de/",
+          "Adresse": "Scharenbergstraße 15"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Rathenow",
+          "PLZ": "14712",
+          "Ort": "Rathenow",
+          "Bundesland": "Brandenburg",
+          "URL": "https://357-iz.impfterminservice.de/",
+          "Adresse": "Schopenhauerstr. 35"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Brandenburg",
+          "PLZ": "14770",
+          "Ort": "Brandenburg an der Havel",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Magdeburger Landstrasse 228"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Luckenwalde",
+          "PLZ": "14943",
+          "Ort": "Luckenwalde",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Weinberge 39"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Frankfurt",
+          "PLZ": "15234",
+          "Ort": "Frankfurt (Oder)",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Messering 3"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Eberswalde",
+          "PLZ": "16225",
+          "Ort": "Eberswalde",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Heegermühlerstraße 69a"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Oranienburg",
+          "PLZ": "16515",
+          "Ort": "Oranienburg",
+          "Bundesland": "Brandenburg",
+          "URL": "https://357-iz.impfterminservice.de/",
+          "Adresse": "André-Pican-Str. 42"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kyritz",
+          "PLZ": "16866",
+          "Ort": "Kyritz",
+          "Bundesland": "Brandenburg",
+          "URL": "https://097-iz.impfterminservice.de/",
+          "Adresse": "Perleberger Straße 8"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Prenzlau",
+          "PLZ": "17291",
+          "Ort": "Prenzlau",
+          "Bundesland": "Brandenburg",
+          "URL": "https://357-iz.impfterminservice.de/",
+          "Adresse": "Berliner Straße 29"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Perleberg",
+          "PLZ": "19348",
+          "Ort": "Perleberg",
+          "Bundesland": "Brandenburg",
+          "URL": "https://357-iz.impfterminservice.de/",
+          "Adresse": "Karl-Liebknecht-Straße 14"
+       }
+    ],
+    "Hamburg": [
+       {
+          "Zentrumsname": "IZ am AGAPLESION DIAKONIEKLINIKUM HAMBURG (nur für altersbedingt Impfberechtigte)",
+          "PLZ": "20259",
+          "Ort": "Hamburg",
+          "Bundesland": "Hamburg",
+          "URL": "https://226-iz.impfterminservice.de/",
+          "Adresse": "Hohe Weide 17b"
+       },
+       {
+          "Zentrumsname": "Corona-Impfzentrum Hamburg",
+          "PLZ": "20357",
+          "Ort": "Hamburg",
+          "Bundesland": "Hamburg",
+          "URL": "https://353-iz.impfterminservice.de/",
+          "Adresse": "Lagerstraße, Halle A 3, Eingang West "
+       }
+    ],
+    "Hessen": [
+       {
+          "Zentrumsname": "Terminservice des Landes Hessen",
+          "PLZ": "",
+          "Ort": "Hessen",
+          "Bundesland": "Hessen",
+          "URL": "https://098-iz.impfterminservice.de/",
+          "Adresse": "Terminservice des Landes Hessen "
+       }
+    ],
+    "Nordrhein-Westfalen": [
+       {
+          "Zentrumsname": "Impfzentrum des Kreises Herford",
+          "PLZ": "32130",
+          "Ort": "Enger",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://355-iz.impfterminservice.de/",
+          "Adresse": "Bustedter Weg  16"
+       },
+       {
+          "Zentrumsname": "Sporthalle Unterlübbe",
+          "PLZ": "32479",
+          "Ort": "Hille",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://228-iz.impfterminservice.de/",
+          "Adresse": "Schulstraße  18"
+       },
+       {
+          "Zentrumsname": "Phoenix Contact Arena",
+          "PLZ": "32657",
+          "Ort": "Lemgo",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Bunsenstraße 39"
+       },
+       {
+          "Zentrumsname": "Kreis Höxter",
+          "PLZ": "33034",
+          "Ort": "Brakel",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Am Schützenanger 4"
+       },
+       {
+          "Zentrumsname": "Corona-Impfzentrum Kreis Paderborn",
+          "PLZ": "33154",
+          "Ort": "Salzkotten",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": " Upsprunger Straße  1"
+       },
+       {
+          "Zentrumsname": "Kreis Gütersloh Impfzentrum",
+          "PLZ": "33334",
+          "Ort": "Gütersloh",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Marienfelder Straße 351"
+       },
+       {
+          "Zentrumsname": "Stadthalle Bielefeld/Ausstellungshalle",
+          "PLZ": "33602",
+          "Ort": "Bielefeld",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://004-iz.impfterminservice.de/",
+          "Adresse": "Willy-Brandt-Platz 1"
+       },
+       {
+          "Zentrumsname": "IZ_DO_WarsteinerMusicHall",
+          "PLZ": "44263",
+          "Ort": "Dortmund",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://228-iz.impfterminservice.de/",
+          "Adresse": "Phoenixplatz 4"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Herne",
+          "PLZ": "44627",
+          "Ort": "Herne",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": "Am Revierpark c/o Sporthalle Gysenberg 22"
+       },
+       {
+          "Zentrumsname": "RuhrCongress Bochum",
+          "PLZ": "44791",
+          "Ort": "Bochum",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://004-iz.impfterminservice.de/",
+          "Adresse": "Stadionring 20"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kreis Recklinghausen",
+          "PLZ": "45657",
+          "Ort": "Recklinghausen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://355-iz.impfterminservice.de/",
+          "Adresse": "Konrad-Adenauer-Platz "
+       },
+       {
+          "Zentrumsname": "Emscher-Lippe-Halle",
+          "PLZ": "45891",
+          "Ort": "Gelsenkirchen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Adenaueralle 118"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Bottrop",
+          "PLZ": "46242",
+          "Ort": "Bottrop",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://228-iz.impfterminservice.de/",
+          "Adresse": "Südring  79"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kreis Borken",
+          "PLZ": "46342",
+          "Ort": "Velen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://004-iz.impfterminservice.de/",
+          "Adresse": "Schlatt 23"
+       },
+       {
+          "Zentrumsname": "Stadt Münster - Impfzentrum",
+          "PLZ": "48155",
+          "Ort": "Münster",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": "Albersloher Weg 32"
+       },
+       {
+          "Zentrumsname": "IZ_COE_Werksgelände Wiesmann",
+          "PLZ": "48249",
+          "Ort": "Dülmen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": "An der Lehmkuhle 87"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kreis Steinfurt",
+          "PLZ": "48268",
+          "Ort": "Greven",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://355-iz.impfterminservice.de/",
+          "Adresse": "Airportallee 1"
+       },
+       {
+          "Zentrumsname": "Impfzentrum des Kreises Siegen-Wittgenstein",
+          "PLZ": "57080",
+          "Ort": "Siegen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://004-iz.impfterminservice.de/",
+          "Adresse": "Eiserfelder Straße 236"
+       },
+       {
+          "Zentrumsname": "Impfzentrum für den Kreis Olpe",
+          "PLZ": "57439",
+          "Ort": "Attendorn",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Heggener Weg 34"
+       },
+       {
+          "Zentrumsname": "Stadthalle Hagen",
+          "PLZ": "58093",
+          "Ort": "Hagen",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Wasserloses Tal 2"
+       },
+       {
+          "Zentrumsname": "Impfzentrum des Ennepe-Ruhr-Kreises",
+          "PLZ": "58256",
+          "Ort": "Ennepetal",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://355-iz.impfterminservice.de/",
+          "Adresse": "Kölner Str. 205"
+       },
+       {
+          "Zentrumsname": "historische Schützenhalle Loh ",
+          "PLZ": "58511",
+          "Ort": "Lüdenscheid",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://355-iz.impfterminservice.de/",
+          "Adresse": "Reckenstraße 6"
+       },
+       {
+          "Zentrumsname": "Neue Dreifachsporthalle der Friedensschule",
+          "PLZ": "59063",
+          "Ort": "Hamm",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": "Marker Allee 20"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kreis Warendorf",
+          "PLZ": "59320",
+          "Ort": "Ennigerloh",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://354-iz.impfterminservice.de/",
+          "Adresse": "Westring  10"
+       },
+       {
+          "Zentrumsname": "Kreissporthalle Unna",
+          "PLZ": "59425",
+          "Ort": "Unna",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://228-iz.impfterminservice.de/",
+          "Adresse": "Platanenallee 20a"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Kreis Soest",
+          "PLZ": "59494",
+          "Ort": "Soest",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://004-iz.impfterminservice.de/",
+          "Adresse": "Senator-Schwartz-Ring 26"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Hochsauerlandkreis",
+          "PLZ": "59939",
+          "Ort": "Olsberg",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://100-iz.impfterminservice.de/",
+          "Adresse": "Ruhrstraße 32"
+       },
+       {
+          "Zentrumsname": "Nordrhein",
+          "PLZ": "",
+          "Ort": "Weitere Impfzentren in NRW",
+          "Bundesland": "Nordrhein-Westfalen",
+          "URL": "https://227-iz.impfterminservice.de/",
+          "Adresse": "Weiterleitung "
+       }
+    ],
+    "Sachsen-Anhalt": [
+       {
+          "Zentrumsname": "Impfzentrum II Stadt Halle (Saale) , Sporthalle Heinrich-Pera-Straße ",
+          "PLZ": "06110",
+          "Ort": "Halle (Saale)",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Heinrich-Pera-Straße 13"
+       },
+       {
+          "Zentrumsname": "Unterimpfzentrum Stadt Halle (Saale) , BG Klinikum Bergmannstrost",
+          "PLZ": "06112",
+          "Ort": "Halle (Saale)",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Merseburger Straße 165"
+       },
+       {
+          "Zentrumsname": "Unterimpfzentrum Stadt Halle (Saale) , Burgstraße",
+          "PLZ": "06114",
+          "Ort": "Halle (Saale)",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Burgstraße 37"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Saalekreis, Außenstelle Salzatal",
+          "PLZ": "06198",
+          "Ort": "Salzatal",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Sportlerweg 4"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Saalekreis",
+          "PLZ": "06217",
+          "Ort": "Merseburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Rischmühle  3"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Saalekreis, Außenstelle Mücheln",
+          "PLZ": "06249",
+          "Ort": "Mücheln",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Rudolf-Breitscheid-Straße 18"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Saalekreis, Außenstelle Obhausen",
+          "PLZ": "06268",
+          "Ort": "Obhausen",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Gartenweg 14"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landkreis Anhalt-Bitterfeld",
+          "PLZ": "06366",
+          "Ort": "Köthen",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Wallstraße 1"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landkreis Harz",
+          "PLZ": "06484",
+          "Ort": "Quedlinburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "August-Bebel-Ring 13"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Mansfeld-Südharz",
+          "PLZ": "06526",
+          "Ort": "Sangerhausen",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Dr.-Wilhelm-Külz-Straße 35"
+       },
+       {
+          "Zentrumsname": "Unterimpfzentrum Naumburg",
+          "PLZ": "06618",
+          "Ort": "Naumburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Roßbacher Straße 12"
+       },
+       {
+          "Zentrumsname": "Unterimpfzentrum Bad Bibra",
+          "PLZ": "06647",
+          "Ort": "Bad Bibra",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Thalwinkeler Straße 1"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Burgenlandkreis",
+          "PLZ": "06686",
+          "Ort": "Lützen OT Zorbau",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Patterken 9"
+       },
+       {
+          "Zentrumsname": "Unterimpfzentrum Zeitz",
+          "PLZ": "06712",
+          "Ort": "Zeitz",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Albrechtstraße 17"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landkreis Anhalt-Bitterfeld",
+          "PLZ": "06766",
+          "Ort": "Bitterfeld-Wolfen, OT Wolfen",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Hauptstraße 1"
+       },
+       {
+          "Zentrumsname": "Anhalt Arena",
+          "PLZ": "06847",
+          "Ort": "Dessau-Roßlau",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Robert-Bosch-Straße  54"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landkreis Wittenberg",
+          "PLZ": "06886",
+          "Ort": "Lutherstadt Wittenberg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Mittelfeld 50"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Gardelegen, Außenstelle Salzwedel",
+          "PLZ": "29410",
+          "Ort": "Salzwedel",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Bahnhofstraße 6"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Halberstadt",
+          "PLZ": "38820",
+          "Ort": "Halberstadt",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Bahnhofstr. 13"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Wernigerode",
+          "PLZ": "38855",
+          "Ort": "Wernigerode",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Am Kupferhammer 36"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Ilsenburg",
+          "PLZ": "38871",
+          "Ort": "Ilsenburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Harzburger Str. 24a"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Blankenburg",
+          "PLZ": "38889",
+          "Ort": "Blankenburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Regensteinsweg, Sporthalle "
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landeshauptstadt Magdeburg Messehalle 3",
+          "PLZ": "39114",
+          "Ort": "Magdeburg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Tessenowstr.  9a"
+       },
+       {
+          "Zentrumsname": "Stadthalle Burg",
+          "PLZ": "39288",
+          "Ort": "Burg",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Platz des Friedens 1"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Landkreis Börde",
+          "PLZ": "39340",
+          "Ort": "Haldensleben",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Waldring  113 B/C"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Salzlandkreis am Standort AMEOS Klinikum Staßfurt ehm. Kinderklinik",
+          "PLZ": "39418",
+          "Ort": "Staßfurt",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Bodestraße  11"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Stendal",
+          "PLZ": "39576",
+          "Ort": "Stendal",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Osterburger Straße 83"
+       },
+       {
+          "Zentrumsname": "Impfzentrum Gardelegen, Außenstelle Kakerbeck",
+          "PLZ": "39624",
+          "Ort": "Kalbe (Milde) OT Kakerbeck",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Dorfstraße 142"
+       },
+       {
+          "Zentrumsname": "Impfzentrum des Altmarkkreis Salzwedel",
+          "PLZ": "39638",
+          "Ort": "Gardelegen",
+          "Bundesland": "Sachsen-Anhalt",
+          "URL": "https://356-iz.impfterminservice.de/",
+          "Adresse": "Philipp-Müller-Straße 18"
+       }
+    ]
+ }
